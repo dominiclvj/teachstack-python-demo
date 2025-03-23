@@ -19,7 +19,7 @@
             {
               "test": "test_hello_world",
               "name": "Print 'Hello World!'",
-              "description": "Use the print() function to dislpay 'Hello World!' in the Output window"
+              "description": "Use the print function to dislpay 'Hello World!' in the Output window"
             }
           ],
           "scripts": [
